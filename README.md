@@ -23,10 +23,6 @@
 * Intellij IDEA 2019.3.3
 * OpenJDK 11.0.5
 * Springboot 2.2.4
-* VS Code 1.42
-* Node.js 12.16
-* Vue 2.2.11
-* VueX 3.1.2
-* Axios 0.19.2
 * Git 2.24
 * MySQL 8.0.17
+* ...待续
